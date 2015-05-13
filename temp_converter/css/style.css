@@ -1,0 +1,7 @@
+form {
+    margin 30px; 
+    padding: 1em; 
+}
+#inputs{
+    display: inline-grid; 
+}
